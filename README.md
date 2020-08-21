@@ -6,3 +6,4 @@
 <p align = 'center'> 
  <a href = https://github.com/https://github.com/JayKrishnareddy target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/jay-krishna-reddy/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://www.instagram.com/jaykrishnareddy/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>

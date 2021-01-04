@@ -6,6 +6,3 @@
  <a href = https://github.com/https://github.com/JayKrishnareddy target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/jay-krishna-reddy/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://www.instagram.com/jaykrishnareddy/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
-
-### 📊 GitHub Stats:
-![Jay's github stats](https://github-readme-stats.vercel.app/api?username=JayKrishnareddy&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)

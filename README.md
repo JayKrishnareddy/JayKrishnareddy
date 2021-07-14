@@ -1,4 +1,4 @@
-<h1 align='center'>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jay</h1>
+<h1 align='center'>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jay Krishna</h1>
 <h2 align = 'center'> Full Stack Developer | 2x Top Writer Medium ✍️ | C# Corner MVP 🏅| Cloud Enthusiast ☁️
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>A tech enthusiast with passion to solve problems and to make things. Proven skills in Web Application Development,Microsoft Technologies(.Net Core, Azure, SQL, Angular, Blazor,React.js) - Full Stack Developer with work experience in various organizations and technical teams and I believe that I am  a versatile learner and can get going with any sort of work.</p><h2 align = 'center'>Check out my articles & blogs 👇🏻 👨🏻‍💻 </h2>

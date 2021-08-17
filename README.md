@@ -17,5 +17,5 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br />
  
 ### 📊 GitHub Stats:
-![Jay krishna's github stats](https://github-readme-stats.vercel.app/api?username=jaykrishnareddy&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Jay krishna's github stats](https://github-readme-stats.vercel.app/api?username=jaykrishnareddy&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
  

@@ -18,4 +18,9 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  
 ### 📊 GitHub Stats:
 ![Jay krishna's github stats](https://github-readme-stats.vercel.app/api?username=jaykrishnareddy&show_icons=true&count_private=true&include_all_commits=true)
- 
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```

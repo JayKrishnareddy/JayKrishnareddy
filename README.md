@@ -20,7 +20,22 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Jay krishna's github stats](https://github-readme-stats.vercel.app/api?username=jaykrishnareddy&show_icons=true&count_private=true&include_all_commits=true)
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+public class Jay
+{
+    string Moto = "Making world a better place by writing scalable code!";
+
+    string[] Skills = { "C#", ".Net 6", "GO lang", "Blazor", "SQL", "WebAPI", "Azure Functions", "Azure Devops", "PostGre SQL", "My SQL",  };
+
+    public Jay(string major)
+    {
+        major = "COMPUTER SCIENCE";
+    }
+
+    public string GetDegree() => "Bachelor of Technology - Computer Science";
+
+    public void MyArticles()
+    {
+        string publisher = "C# Corner!";
+    }
+}    
 ```

@@ -35,7 +35,7 @@ public class Jay
 
     public void MyArticles()
     {
-        string publisher = "C# Corner!";
+        string[] publisher = { "C# Corner", "Medium" };
     }
 }    
 ```

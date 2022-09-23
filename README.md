@@ -22,7 +22,7 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ```
 public class Jay
 {
-    string Moto = "Making world a better place by writing scalable code!";
+    string Moto = "Automating everything with programming!";
 
     string[] Skills = { "C#", ".Net 6", "GO lang", "Blazor", "SQL", "WebAPI", "Azure Functions", "Azure Devops", "PostGre SQL", "My SQL",  };
 
@@ -35,7 +35,7 @@ public class Jay
 
     public void MyArticles()
     {
-        string[] publisher = { "C# Corner", "Medium" };
+        string[] publisher = { "C# Corner", "Medium", "Hashnode" };
     }
 }    
 ```

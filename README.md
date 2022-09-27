@@ -24,7 +24,7 @@ public class Jay
 {
     string Moto = "Automating everything with programming!";
 
-    string[] Skills = { "C#", ".Net 6", "GO lang", "Blazor", "SQL", "WebAPI", "Azure Functions", "Azure Devops", "PostGre SQL", "My SQL", "React js", "Entity Framework                        Core"  };
+    string[] Skills = { "C#", ".Net 6", "GO lang", "Blazor", "SQL", "WebAPI", "Azure Functions", "Azure Devops", "PostGre SQL", "My SQL", "React js", "Entity Framework Core"  };
 
     public Jay(string major)
     {

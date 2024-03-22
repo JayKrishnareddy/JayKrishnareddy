@@ -19,6 +19,14 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 📊 GitHub Stats:
 ![Jay krishna's github stats](https://github-readme-stats.vercel.app/api?username=jaykrishnareddy&show_icons=true&count_private=true&include_all_commits=true)
 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykrishnareddy&show_icons=true&locale=en&layout=compact" alt="jaykrishnareddy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykrishnareddy&show_icons=true&locale=en" alt="jaykrishnareddy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykrishnareddy&" alt="jaykrishnareddy" /></p>
+
 ```
 public class Jay
 {

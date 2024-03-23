@@ -33,7 +33,7 @@ public class Jay
                         "WebAPI", "Azure Functions", "Azure Devops",
                         "PostGre SQL", "My SQL", "React js", "EF Core",
                         "AWS Lamda", "Rest APIs", "Swagger", "New Relic",
-                        Design Patterns, "Monolith Architecture" };
+                        Design Patterns, "Monolith Architecture, Playwright" };
 
     public Jay(string major)
     {

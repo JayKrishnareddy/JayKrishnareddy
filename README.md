@@ -44,7 +44,7 @@ public class Jay
 
     public void MyArticles()
     {
-        string[] publisher = { "C# Corner", "Medium", "Hashnode" };
+        string[] publisher = { "C# Corner", "Medium" };
     }
 }    
 ```

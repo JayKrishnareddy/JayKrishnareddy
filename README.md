@@ -22,28 +22,3 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykrishnareddy&" alt="jaykrishnareddy" /></p>
 
-```
-public class Jay
-{
-    string Moto = "Automating everything with programming!";
-
-    string[] Skills = { "C#", ".Net 6", "GO lang", "Blazor", "SQL",
-                        "WebAPI", "Azure Functions", "Azure Devops",
-                        "PostGre SQL", "My SQL", "React js", "EF Core",
-                        "AWS Lamda", "Rest APIs", "Swagger", "New Relic",
-                        Design Patterns, "Monolith Architecture, Playwright",
-                        AWS, Azure, Google Cloud };
-
-    public Jay(string major)
-    {
-        major = "COMPUTER SCIENCE";
-    }
-
-    public string GetDegree() => "Bachelor of Technology - Computer Science";
-
-    public void MyArticles()
-    {
-        string[] publisher = { "Medium","C# Corner" };
-    }
-}    
-```
